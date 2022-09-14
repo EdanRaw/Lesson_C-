@@ -1,0 +1,15 @@
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\bin\Debug\net6.0\Lessons001_Console.exe
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\bin\Debug\net6.0\Lessons001_Console.deps.json
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\bin\Debug\net6.0\Lessons001_Console.runtimeconfig.json
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\bin\Debug\net6.0\Lessons001_Console.dll
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\bin\Debug\net6.0\Lessons001_Console.pdb
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.csproj.AssemblyReference.cache
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.AssemblyInfoInputs.cache
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.AssemblyInfo.cs
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.csproj.CoreCompileInputs.cache
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.dll
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\refint\Lessons001_Console.dll
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.pdb
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\Lessons001_Console.genruntimeconfig.cache
+C:\Users\ПВЗ_Зарайск\Desktop\C#\Lessons001_Console\obj\Debug\net6.0\ref\Lessons001_Console.dll
